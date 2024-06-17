@@ -8,3 +8,4 @@ tdengine/tdengine
 tancloud/hertzbeat
 python:alpine3.19
 drupalci/mysql-5.7
+registry.cn-hangzhou.aliyuncs.com/jgcx/akstream:v2
