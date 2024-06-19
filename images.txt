@@ -11,3 +11,4 @@ drupalci/mysql-5.7
 registry.cn-hangzhou.aliyuncs.com/jgcx/akstream:v2
 maptiler/tileserver-gl:v4.11.1
 maptiler/tileserver-gl
+openjdk:21
