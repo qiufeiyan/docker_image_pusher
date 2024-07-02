@@ -13,3 +13,4 @@ maptiler/tileserver-gl:v4.11.1
 maptiler/tileserver-gl
 openjdk:21
 heartexlabs/label-studio:latest
+prom/prometheus:v2.20.1
