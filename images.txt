@@ -17,5 +17,4 @@ prom/prometheus:v2.20.1
 centos:7
 rocketmqinc/rocketmq
 pangliang/rocketmq-console-ng
-lynxidocker/torch-tensorflow-caffe-lyngor-lynsdk-opencv-ubuntu18.04-hp-x86_64  
 minio/minio
