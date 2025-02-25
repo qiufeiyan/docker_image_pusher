@@ -1,4 +1,1 @@
-minio/minio
-apache/rocketmq:5.3.0
-styletang/rocketmq-console-ng:1.0.0
-chenji1506/openvpn:2.4.8
+sonarqube:9.7-community
