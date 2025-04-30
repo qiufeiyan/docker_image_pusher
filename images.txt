@@ -1,1 +1,1 @@
-sonarqube:9.7-community
+sonarqube:10.2.1-community
