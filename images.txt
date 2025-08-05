@@ -1,1 +1,1 @@
-sonarqube:10.2.1-community
+nacos/nacos-server:v2.2.3
